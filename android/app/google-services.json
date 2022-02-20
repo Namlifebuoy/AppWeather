@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "955706430963",
+    "project_id": "food-review-67be4",
+    "storage_bucket": "food-review-67be4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955706430963:android:87169a84be08625cad6e86",
+        "android_client_info": {
+          "package_name": "com.foodreview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955706430963-dhsbrm048pm22pp8fe6mb4cguoae71q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4YusmNe3cWk_qnqbmzCC0B9p4MEp0Do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955706430963-dhsbrm048pm22pp8fe6mb4cguoae71q5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "955706430963-1k0ieq0rdkre8cp5rsifm07pb6lin2t6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.foodReview"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
